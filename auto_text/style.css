@@ -34,6 +34,7 @@ body {
   display: flex;
   gap: 1rem;
   color: var(--text_color);
+  align-items: end;
 }
 .animation_container p {
   font-size: 3.5rem;
